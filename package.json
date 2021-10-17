@@ -1,0 +1,14 @@
+{
+  "name": "rap_name",
+  "version": "1.0.0",
+  "description": "generate yourself a rap name easily with this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Kareem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
